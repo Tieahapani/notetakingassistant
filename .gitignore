@@ -1,0 +1,6 @@
+firebase-credentials.json
+.env
+.DS_Store
+.voicelog_agent_id
+__pycache__/
+*.pyc
