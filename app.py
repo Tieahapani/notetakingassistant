@@ -32,7 +32,7 @@ firebase_admin.initialize_app(cred)
 db = firestore.client()
 
 # Your Flask server URL - UPDATE THIS with your ngrok URL
-BACKEND_URL = "http://192.168.1.69:5002"  # Change this to your ngrok URL
+BACKEND_URL = "https://voicelog-backend.onrender.com"  # Change this to your ngrok URL
 
 
 # ============================================
